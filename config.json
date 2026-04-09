@@ -1,18 +1,18 @@
 {
   "files": [
     {
-      "name": "CFG Pro",
+      "name": "CFG ",
       "filename": "config.cfg",
-      "url": "https://raw.githubusercontent.com/yourname/repo/main/config.cfg"
+      "url": "https://raw.githubusercontent.com/Creator-code-Python/launcher/refs/heads/main/config.cfg?token=GHSAT0AAAAAADZ6LEEDU64743UWY6NCLTUE2OX32PQ"
     },
     {
-      "name": "Skin Pack",
-      "filename": "skin.zip",
+      "name": "model",
+      "filename": "buterfly_octane",
       "url": "https://raw.githubusercontent.com/yourname/repo/main/skin.zip"
     }
   ],
   "gui": {
-    "name": "GUI Launcher",
+    "name": "GUI",
     "filename": "gui.exe",
     "url": "https://raw.githubusercontent.com/yourname/repo/main/gui.exe"
   }
